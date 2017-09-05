@@ -10,9 +10,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Phone State, Camera. The information that I request is retained on your device and is not collected by me in any way
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Phone State, Camera, Facial Imagery. The information that I request is retained on your device and is not collected by me in any way. 
 
-The app does use third party services that may collect information used to identify you.
+The app does use third party services provided by Microsoft that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
 
